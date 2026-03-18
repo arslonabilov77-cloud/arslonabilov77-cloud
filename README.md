@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Salom, men Arslon Abilov!
 
-<!--
-**arslonabilov77-cloud/arslonabilov77-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Men haqimda:
+* 🏢 Men O'zbekistonda yashayman va 19 yoshli talabaman.
+* 💻 Hozirda C++, Python va Linux tizimlarini o'rganyapman.
+* 🛡️ Kiberxavfsizlik va IT sohasi mening asosiy qiziqishim.
 
-Here are some ideas to get you started:
+### 🛠️ Texnologiyalar:
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🥊 Qiziqishlar:
+* Haftada 4 marta Boks mashg'ulotlariga boraman.
+* Tarix va huquq chet tili muhandislik grafikasi fanlarini yoqtiraman.
+* ingliz va nemis tillarini qisman bilaman.
+
